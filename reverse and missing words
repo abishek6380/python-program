@@ -1,0 +1,4 @@
+a="hello world! iam good"
+b=a.replace('a',' ');c=b.replace('e',' ');d=c.replace('i',' ');e=d.replace('o',' ');f=e.replace('u',' ')
+print("replace the string:\n",f)
+print("reverse the string:\b",f[::-1])
